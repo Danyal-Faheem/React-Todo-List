@@ -4,7 +4,7 @@ Tis project was bootstrapped with [Create React App](https://github.com/facebook
 
 ## Available Scripts
 
-In the proct directory, you can run:
+In the proct directory, you can rn:
 
 ### `npm start`
 
